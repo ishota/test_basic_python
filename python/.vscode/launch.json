@@ -5,7 +5,7 @@
             "name": "Python Basic",
             "type": "python",
             "request": "launch",
-            "program": "$(file)",
+            "program": "${file}",
             "console": "internalConsole"
         }
     ]
